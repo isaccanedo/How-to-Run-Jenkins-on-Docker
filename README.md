@@ -1,5 +1,8 @@
 # How-to-Run-Jenkins-on-Docker
-:smile: How to Run Jenkins on Docker
+
+```
+sudo docker pull jenkins/jenkins:2.303.1-jdk8
+```
 
 ### Commands
 ```
